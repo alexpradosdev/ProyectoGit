@@ -1,1 +1,2 @@
-alert("Aquello es una alerta de prueba");
+alert("¡Esto es una alerta de prueba!");
+>>>>>>> nueva_rama
